@@ -1,0 +1,22 @@
+
+.showImagePreview{
+    max-width: 100%;
+    height: auto;
+}
+.dataTables_info{
+    margin-top: 20px;
+}
+.paging-data-table{
+    margin-top: -35px;
+}
+
+.radio-inline > .radio{
+    margin-top: -10px;
+}
+
+.btnSubmit{
+    margin-right: 15px;
+}
+.searchBox{
+    margin-right: 15px;
+}
